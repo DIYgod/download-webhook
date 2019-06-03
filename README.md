@@ -25,8 +25,8 @@ Prerequisites:
 - [you-get](https://github.com/soimort/you-get)
 
 ```
-npm install
-npm run start
+yarn
+yarn start
 ```
 
 ## Getting Started

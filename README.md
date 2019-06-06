@@ -29,6 +29,14 @@ yarn
 yarn start
 ```
 
+or 
+
+
+```
+npm install
+npm run start
+```
+
 ## Getting Started
 
 ### Try it yourself

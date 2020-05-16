@@ -42,7 +42,7 @@ npm run start
 ### Try it yourself
 
 ```
-curl -X POST -H "Content-Type:application/json" -d '{"secret": "mysecret", "path": "mypath", "name": "myvideo", "url": "https://www.bilibili.com/video/av45364988"}' http://127.0.0.1:3000
+curl -X POST -H "Content-Type:application/json" -d '{"secret": "mysecret", "path": "mypath", "name": "myvideo", "url": "https://www.bilibili.com/video/av45364988", "playlist": "1"}' http://127.0.0.1:3000
 ```
 
 ### Work with [IFTTT](https://ifttt.com) and [RSSHub](https://github.com/DIYgod/RSSHub)

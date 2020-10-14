@@ -31,9 +31,11 @@
   "homepage": "https://github.com/DIYgod/download-webhook#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "got": "^11.7.0",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
-    "winston": "^3.2.1"
+    "winston": "^3.2.1",
+    "winston-transport": "^4.4.0"
   }
 }

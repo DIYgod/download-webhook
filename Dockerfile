@@ -7,7 +7,7 @@ COPY . /app
 
 RUN apt-get update \
  && apt-get install -y ffmpeg \
- && pip3 install --no-cache-dir you-get bilili \
+ && pip3 install --no-cache-dir you-get bilili youtube-dl \
  && apt-get install -y wget --no-install-recommends \
  && yarn;
 
